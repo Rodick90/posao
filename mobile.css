@@ -1,0 +1,37 @@
+/*Mobile view*/
+@media only screen and (max-width: 600px) {
+  #container{
+    margin:0px 0px;
+    padding: 0px 0px;
+  }
+.naslov{
+  font-style: italic;
+  font-size: 30px;
+  text-align: center;
+  width: 100%;
+  display: block;
+  background-color: #32E3B9;
+  margin:0px 0px;
+  padding: 0px 0px;
+
+}
+
+}
+
+
+
+/*PC view*/
+@media (min-width: 600px) and (max-width:2000px)  {
+  .naslov{
+    font-style: italic;
+    font-size: 30px;
+    text-align: center;
+    width: 100%;
+  }
+
+
+
+
+
+
+}
