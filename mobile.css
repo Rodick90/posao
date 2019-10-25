@@ -9,11 +9,18 @@
   font-size: 30px;
   text-align: center;
   width: 100%;
-  display: block;
   background-color: #32E3B9;
-  margin:0px 0px;
+  margin: 0px 0px;
   padding: 0px 0px;
 
+}
+a {
+  text-align: center;
+  text-decoration: none;
+  font-size: 30px;
+  padding: 10px 10px;
+  background-color: #32E3B9;
+  padding: 0px 0px;
 }
 
 }
