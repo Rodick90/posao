@@ -15,18 +15,19 @@
   background-color: #32E3B9;
   margin: 0px 0px;
   padding: 0px 0px;
-
+}
+a:hover{
+  color: black;
 }
 a {
   text-align: center;
   text-decoration: none;
   font-size: 30px;
   color:White;
-
   background-color: #32E3B9;
-
-
-
+}
+.zadnji{
+  float: left;
 }
 .mobnav {
 
@@ -47,6 +48,10 @@ a {
   left:0px;
   bottom:0px;
   color:white;
+}
+table{
+  margin: 10px 10px;
+  border-color: #32E3B9;
 }
 }
 
