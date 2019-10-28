@@ -11,13 +11,15 @@
   font-style: italic;
   font-size: 30px;
   text-align: center;
-  width: 100%;
+  
   background-color: #32E3B9;
   margin: 0px 0px;
   padding: 0px 0px;
 }
 a:hover{
+
   color: black;
+  background-color: white;
 }
 a {
   text-align: center;
@@ -25,6 +27,11 @@ a {
   font-size: 30px;
   color:White;
   background-color: #32E3B9;
+
+}
+img{
+  width: 100%;
+
 }
 .zadnji{
   float: left;
