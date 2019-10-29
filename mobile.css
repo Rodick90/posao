@@ -42,6 +42,7 @@ ul.submenu {
 
 /*position the label*/
 label {
+  color:white;
   font-size: 30px;
   text-decoration: none;
   background-color: #32E3B9;
@@ -53,6 +54,7 @@ label {
 a {
     font-size: 30px;
     text-decoration: none;
+    color: white;
 }
 /*show the submenu when checked*/
 input:checked~ul.submenu {
